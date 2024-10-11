@@ -4,7 +4,7 @@ function TranslateInput({ text, setText }) {
   return (
     <div className="form-group">
       <textarea
-        placeholder="Enter text to translate..."
+        placeholder="write Text Here........"
         cols={40}
         rows={6}
         value={text}
